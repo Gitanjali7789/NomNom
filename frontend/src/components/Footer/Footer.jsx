@@ -5,7 +5,7 @@ import { assets } from '../../assets/assets'
 const Footer = () => {
   return (
     <div className='footer' id='footer'>
-        <div className="footer-content">
+        {/* <div className="footer-content">
             <div className="footer-content-left">
                 <img src={assets.logo} alt="" />
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum in, beatae dolorem non optio cupiditate, quam sunt dicta dolores minima exercitationem ducimus totam aut asperiores inventore harum laudantium. Distinctio, libero.</p>
@@ -36,7 +36,7 @@ const Footer = () => {
         <hr />
         <p className="footer-copyright">
             Copyright 2024 &copy; Dulanjali - All Right Reserved.
-        </p>
+        </p> */}
     </div>
   )
 }

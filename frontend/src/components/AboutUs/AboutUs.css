@@ -1,0 +1,23 @@
+.about-us {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.text-section {
+    flex: 1;
+    padding-right: 20px;
+}
+
+.image-section {
+    flex: 1;
+}
+
+.image-section img {
+    max-width: 100%;
+    height: 248px;
+    padding-left: 266px;
+    border-radius: 8px; /* Optional: for rounded corners */
+}
